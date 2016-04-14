@@ -92,6 +92,28 @@ $miembro_3 = array(
 		"descripcion" => "Profesor Asociado en la  Università degli Studi di Trento. Miembro del Dipartimento di Ingegneria e Scienza dell'Informazione. Se desempeña como profesor en el Dipartimento di Sociologia e Ricerca Sociale y en el Dipartimento di Ingegneria e Scienza dell'Informazione. Vicecoordinador ICT International Doctoral School. Cientifico Director del Doctoral Training Center on ICT for Quality of Life (parte del EIT ICT Labs Doctoral School )"
 	);
 
+
+$miembro_4 = array(
+		"nombre" => "Dr. Cristhian Parra (U. California, Berkeley, Estados Unidos)<br>Investigador Asociado
+",
+		"descripcion" => ""
+	);
+
+$miembro_5 = array(
+		"nombre" => "Msc. Camilo Caballero (U. de Salamanca, España)<br>Investigador Asociado",
+		"descripcion" => ""
+	);
+
+$miembro_6 = array(
+		"nombre" => "Lic. Marcelo Alcaraz (UCA)<br>Investigador Junior",
+		"descripcion" => ""
+	);
+
+$miembro_7 = array(
+		"nombre" => "Lic. Rebeca Arteta (UCA)<br>Investigador Junior",
+		"descripcion" => ""
+	);
+
 // // Plantilla
 // $miembro_N = array(
 // 		"nombre" => "",

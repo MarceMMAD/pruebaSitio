@@ -1,14 +1,7 @@
 <!DOCTYPE HTML>
-<!--
-	Twenty by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+
 <?php
 
-// include "contenido.php";
-// $idioma = "es";
-// session_start();
 
 if ($_GET["lang"] == "en"){
 	include "contenido_en.php";
@@ -94,12 +87,10 @@ if ($_GET["lang"] == "en"){
 					<header class="special container">
 						<span class="icon fa-bar-chart-o"></span>
 						<h2><?php echo $t_presentacion;?></h2>
-						<!-- <p>
-							<?php echo $presentacion;?>
-						</p> -->
+
 					</header>
 
-					<!-- One -->
+<!-- PRESENTACION -->
 						<section class="wrapper style2 container special-alt">
 							<div class="row 50%">
 								<div class="8u 12u(narrower)">
@@ -133,7 +124,7 @@ if ($_GET["lang"] == "en"){
 							</div>
 						</section>
 
-					<!-- Two -->
+<!-- RESULTADOS ESPERADOS -->
 						<section class="wrapper style1 container special">
 							<header class="special container">
 						<span class="icon fa-bar-chart-o"></span>
@@ -201,7 +192,7 @@ if ($_GET["lang"] == "en"){
 							</div>
 						</section>
 
-					<!-- Three -->
+<!-- EXPERIENCIAS PREVIAS -->
 						<section class="wrapper style3 container special">
 
 							<header class="major">
@@ -244,6 +235,7 @@ if ($_GET["lang"] == "en"){
 
 						</section>
 
+<!-- SOLUCIONES TECNOLOGICAS -->
 						<section class="wrapper style3 container special">
 
 							<header class="major">
@@ -288,7 +280,7 @@ if ($_GET["lang"] == "en"){
 
 				</article>
 
-			<!-- CTA -->
+<!-- EQUIPO -->
 				<section id="cta">
 					<header class="major">
 								<h2><?php echo $t_equipo; ?></h2>
@@ -296,33 +288,89 @@ if ($_GET["lang"] == "en"){
 
 							<div class="row">
 								<div class="6u 12u(narrower)">
-
 									<section>
 										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
 										<header>
-											<h3><?php echo $miembro_1["nombre"]; ?></h3>
+											<h4><?php echo $miembro_1["nombre"]; ?></h4>
 										</header>
-										<p>
+										<p style="font-size: 9pt;">
 											<?php echo $miembro_1["descripcion"]; ?>
 										</p>
 									</section>
 
 								</div>
 								<div class="6u 12u(narrower)">
-
-									
 									<section>
 										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
 										<header>
-											<h3><?php echo $miembro_2["nombre"]; ?></h3>
+											<h4><?php echo $miembro_2["nombre"]; ?></h4>
 										</header>
-										<p>
+										<p style="font-size: 9pt;">
 											<?php echo $miembro_2["descripcion"]; ?>
 										</p>
 									</section>
 
 								</div>
 								
+							</div>
+							<div class="row">
+								<div class="6u 12u(narrower)">
+									<section>
+										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+										<header>
+											<h4><?php echo $miembro_3["nombre"]; ?></h4>
+										</header>
+										<p style="font-size: 10pt;">
+											<?php echo $miembro_3["descripcion"]; ?>
+										</p>
+									</section>
+								</div>
+								<div class="6u 12u(narrower)">								
+									<section>
+										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+										<header>
+											<h4><?php echo $miembro_4["nombre"]; ?></h4>
+										</header>
+										<p style="font-size: 10pt;">
+											<?php echo $miembro_4["descripcion"]; ?>
+										</p>
+									</section>
+								</div>								
+							</div>
+							<div class="row">
+								<div class="4u 12u(narrower)">
+									<section>
+										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+										<header>
+											<h4><?php echo $miembro_6["nombre"]; ?></h4>
+										</header>
+										<p style="font-size: 10pt;">
+											<?php echo $miembro_6["descripcion"]; ?>
+										</p>
+									</section>
+								</div>
+								<div class="4u 12u(narrower)">
+									<section>
+										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+										<header>
+											<h4><?php echo $miembro_5["nombre"]; ?></h4>
+										</header>
+										<p style="font-size: 10pt;">
+											<?php echo $miembro_5["descripcion"]; ?>
+										</p>
+									</section>
+								</div>
+								<div class="4u 12u(narrower)">
+									<section>
+										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+										<header>
+											<h4><?php echo $miembro_7["nombre"]; ?></h4>
+										</header>
+										<p style="font-size: 10pt;">
+											<?php echo $miembro_7["descripcion"]; ?>
+										</p>
+									</section>
+								</div>
 							</div>
 					<!-- <header>
 						<h2>Ready to do <strong>something</strong>?</h2>

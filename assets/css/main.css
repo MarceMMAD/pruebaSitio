@@ -1592,6 +1592,10 @@
 		font-weight: 400;
 	}
 
+	p {
+		font-size: 12pt;
+	}
+
 	p, ul, ol, dl, table, blockquote {
 		margin: 0 0 2em 0;
 	}
