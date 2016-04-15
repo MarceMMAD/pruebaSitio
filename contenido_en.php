@@ -107,7 +107,7 @@ $miembro_5 = array(
 
 $miembro_6 = array(
 		"nombre" => "Lic. Marcelo Alcaraz (UCA)<br>Investigador Junior",
-		"descripcion" => "He has finished _________ Universidad Católica Nuestra Señora de la Asunción. He joined Particpa's team starting his final project for getting the Informatics Engineering degree."
+		"descripcion" => "He has a Bachelor's degree in Informatics from Universidad Católica Nuestra Señora de la Asunción. He joined Particpa's team starting his final project for getting the Informatics Engineering degree."
 	);
 
 $miembro_7 = array(

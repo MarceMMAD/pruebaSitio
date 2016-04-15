@@ -85,7 +85,7 @@ if ($_GET["lang"] == "en"){
 				<article id="main">
 
 					<header class="special container">
-						<span class="icon fa-bar-chart-o"></span>
+						<span class="icon fa-comment"></span>
 						<h2><?php echo $t_presentacion;?></h2>
 
 					</header>
@@ -354,7 +354,7 @@ if ($_GET["lang"] == "en"){
 								</div>
 								<div class="4u 12u(narrower)">
 									<section>
-										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+										<a href="#" class="image featured"><img src="images/camilo.jpg" alt="" /></a>
 										<!-- <header>
 											<h4><?php echo $miembro_5["nombre"]; ?></h4>
 										</header> -->
