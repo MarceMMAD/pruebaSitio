@@ -111,9 +111,9 @@ if ($_GET["lang"] == "en"){
 
 									<ul class="featured-icons">
 								
-										<li><img src="images/pic01.jpg"></li>
-										<li><img src="images/pic01.jpg"></li>
-										<li><img src="images/pic01.jpg"></li>
+										<li><img src="images/micro.jpg"></li>
+										<li><img src="images/phone.jpg"></li>
+										<li><img src="images/dengue.jpg"></li>
 										<!-- <li><span class="icon fa-clock-o"><span class="label">Feature 1</span></span></li>
 										<li><span class="icon fa-volume-up"><span class="label">Feature 2</span></span></li>
 										<li><span class="icon fa-laptop"><span class="label">Feature 3</span></span></li>
@@ -206,7 +206,7 @@ if ($_GET["lang"] == "en"){
 								<div class="12u 12u(narrower)">
 
 									<section>
-										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+										<a href="http://vozyvoto.org/" class="image featured"><img src="images/vozyvoto.jpg" alt="" /></a>
 										<header>
 											<h3><?php echo $exp_prev_1["nombre"]; ?></h3>
 										</header>
@@ -249,7 +249,7 @@ if ($_GET["lang"] == "en"){
 								<div class="12u 12u(narrower)">
 
 									<section>
-										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+										<a href="http://www.social-ideation.com/" class="image featured"><img src="images/socialideation.jpg" alt="" /></a>
 										<header>
 											<h3><?php echo $sol_tec_1["nombre"]; ?></h3>
 										</header>
@@ -292,10 +292,10 @@ if ($_GET["lang"] == "en"){
 							<div class="row">
 								<div class="6u 12u(narrower)">
 									<section>
-										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-										<header>
+										<a href="#" class="image featured"><img src="images/luca.jpg" alt="" /></a>
+										<!-- <header>
 											<h4><?php echo $miembro_1["nombre"]; ?></h4>
-										</header>
+										</header> -->
 										<p style="font-size: 9pt;">
 											<?php echo $miembro_1["descripcion"]; ?>
 										</p>
@@ -304,10 +304,10 @@ if ($_GET["lang"] == "en"){
 								</div>
 								<div class="6u 12u(narrower)">
 									<section>
-										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-										<header>
+										<a href="#" class="image featured"><img src="images/jorge.jpg" alt="" /></a>
+										<!-- <header>
 											<h4><?php echo $miembro_2["nombre"]; ?></h4>
-										</header>
+										</header> -->
 										<p style="font-size: 9pt;">
 											<?php echo $miembro_2["descripcion"]; ?>
 										</p>
@@ -319,10 +319,10 @@ if ($_GET["lang"] == "en"){
 							<div class="row">
 								<div class="6u 12u(narrower)">
 									<section>
-										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-										<header>
+										<a href="#" class="image featured"><img src="images/vicenzo.jpg" alt="" /></a>
+										<!-- <header>
 											<h4><?php echo $miembro_3["nombre"]; ?></h4>
-										</header>
+										</header> -->
 										<p style="font-size: 10pt;">
 											<?php echo $miembro_3["descripcion"]; ?>
 										</p>
@@ -330,10 +330,10 @@ if ($_GET["lang"] == "en"){
 								</div>
 								<div class="6u 12u(narrower)">								
 									<section>
-										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-										<header>
+										<a href="#" class="image featured"><img src="images/cristian.jpg" alt="" /></a>
+										<!-- <header>
 											<h4><?php echo $miembro_4["nombre"]; ?></h4>
-										</header>
+										</header> -->
 										<p style="font-size: 10pt;">
 											<?php echo $miembro_4["descripcion"]; ?>
 										</p>
@@ -344,9 +344,9 @@ if ($_GET["lang"] == "en"){
 								<div class="4u 12u(narrower)">
 									<section>
 										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-										<header>
+										<!-- <header>
 											<h4><?php echo $miembro_6["nombre"]; ?></h4>
-										</header>
+										</header> -->
 										<p style="font-size: 10pt;">
 											<?php echo $miembro_6["descripcion"]; ?>
 										</p>
@@ -355,9 +355,9 @@ if ($_GET["lang"] == "en"){
 								<div class="4u 12u(narrower)">
 									<section>
 										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-										<header>
+										<!-- <header>
 											<h4><?php echo $miembro_5["nombre"]; ?></h4>
-										</header>
+										</header> -->
 										<p style="font-size: 10pt;">
 											<?php echo $miembro_5["descripcion"]; ?>
 										</p>
@@ -366,9 +366,9 @@ if ($_GET["lang"] == "en"){
 								<div class="4u 12u(narrower)">
 									<section>
 										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-										<header>
+										<!-- <header>
 											<h4><?php echo $miembro_7["nombre"]; ?></h4>
-										</header>
+										</header> -->
 										<p style="font-size: 10pt;">
 											<?php echo $miembro_7["descripcion"]; ?>
 										</p>

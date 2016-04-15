@@ -110,7 +110,7 @@ $miembro_6 = array(
 
 $miembro_7 = array(
 		"nombre" => "Lic. Rebeca Arteta (UCA)<br>Investigadora Junior",
-		"descripcion" => ""
+		"descripcion" => "Candidata a Ingeniera Informática por la Universidad Católica Nuestra Señora de la Asunción. Se integra al proyecto como Investigadora Junior, iniciando con este su proyecto de fin de carrera. Se desempeña además como desarrolladora back-end en una empresa paraguaya de desarrollo de software."
 	);
 
 // // Plantilla
