@@ -73,7 +73,7 @@ if ($_GET["lang"] == "en"){
 						<footer>
 							<ul class="buttons horizontal">
 								<li><a href="./?lang=es" class="button fit scrolly">Español</a></li>
-								<li><a href="./?lang=en" class="button fit scrolly">Ingles</a></li>
+								<li><a href="./?lang=en" class="button fit scrolly">English</a></li>
 							</ul>
 						</footer>
 

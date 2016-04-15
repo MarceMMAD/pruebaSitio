@@ -5,7 +5,7 @@ $nombre = "Participa Project";
 
 
 // Breve descripcion del proyecto
-$descripcion = "Investigation Poject focused on promoting civic participation on public sector innovation";
+$descripcion = "Research Poject focused on promoting civic participation on public sector innovation";
 
 
 // Titulo de la seccion de presentacion
@@ -13,11 +13,11 @@ $t_presentacion = "Presentation";
 
 
 // Texto de presentacion
-$presentacion = "La pregunta que nos hacemos en el proyecto Participa es, ¿qué herramientas tecnológicas y procesos pueden ser utilizados para generar en Paraguay espacios alternativos, convenientes, económicos, y accesibles de participación cívica? Espacios que adaptados al contexto social, económico, y cultural del Paraguay permitan a la ciudadanía congregarse a discutir soluciones, propuestas  o simplemente ideas sobre problemáticas de interés público (p.ej., el transporte público, el sistema sanitario).<br>
+$presentacion = "The question we ask ourselves in this project is: Which technology tools and processes can be used to generate altenative, convenient, affordable, and accesible civic participation spaces in Paraguay? Spaces that fit to Paraguay's social-economic-cultural context and allow citizens gathering for discussing solutions, proposals or just ideas concerning common interest issues. (e.g., public transportation, sanitary system).<br>
 
-	Participa es una proyecto de investigación de 2 años financiado por el Consejo Nacional de Ciencia y Tecnología (CONACYT) de Paraguay llevado adelante por un equipo multidisciplinario de profesores, investigadores y técnicos del área de Informática y Sociología de la Universidad Católica de Asunción (UCA), Paraguay y de la Universidad de Trento (UniTN), Italia.<br>
+	Participa is a 2-year-long research project funded by the CONACYT (The National Council for Science and Technology from Paraguay) and driven by a multidisciplinary team of Informatics and Sociology proffesors, researchers and technicians from Universidad Católica de Asunción (UCA), Paraguay and Universidad de Trento (UniTN), Italia.<br>
 
-	Para ello pretendemos, en un primer momento, explorar iniciativas similares ya planteadas en otros países. Más tarde buscaremos entender a través de experiencias prácticas (estudios pilotos) las motivaciones, formas y alcances de la participación ciudadana a través de plataformas tecnológicas en Paraguay. Finalmente, nos enfocaremos en modelar, diseñar, desarrollar e implementar sistemas y aplicaciones tecnológicas, así como también procesos, que permitan al ciudadano paraguayo tomar parte activa en la ideación de innovaciones y soluciones a problemáticas de interés general.";
+	To do so, first we pretend to explore similar intiatives already proposed in other countries. Later, we will try to understand, trough a pilot study, the motivation, the different ways and the scope of civic participation using technology platforms in Paraguay. Finally, we will focus on modeling, designing, developing and implementing technologycal applications and systems, as well as processes, that allow paraguayan citizens to take an active role on the ideation of solutions for common interest issues.";
 
 
 // Titulo de la seccion de Resultados Esperados
@@ -27,9 +27,8 @@ $t_resultados = "Expected Results";
 // Resultados esperados
 $resultados = array(
 
-	"Identificar escenarios de problemáticas de impacto social en los que la ciudadanía se encuentra preferentemente interesada en colaborar con el gobierno para encontrar una solución.",
-
-	"Extender de la literatura con nuevos conocimientos respecto a la problemática de participación ciudadana, mediada por la tecnología, en realidades socio-culturales latinoamericanas, en particular se espera ampliar el entendimiento respecto a la ejecución de procesos colaborativos de innovación en el sector público en Paraguay.",
+	"Identifying social-impact problem scenarios on which citizes are interested on collaborating with the government to find solutions",
+	"Extent the existing literature with new knowledge about the problem of Civic participation using technology on latin-american sociocultural contexts. In particular we hope to increase the understaing about implementation of  ",
 
 	"Implementar procesos de participación cívica que permitirán involucrar a la sociedad civil en la innovación del sector público.",
 
