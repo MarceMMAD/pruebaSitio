@@ -90,29 +90,29 @@ $miembro_2 = array(
 
 $miembro_3 = array(
 		"nombre" => "Prof. Dr. Vincenzo D’Andrea (UniTN, Italia0<br>Investigador Asociado",
-		"descripcion" => "Profesor Asociado en la  Università degli Studi di Trento. Miembro del Dipartimento di Ingegneria e Scienza dell'Informazione. Se desempeña como profesor en el Dipartimento di Sociologia e Ricerca Sociale y en el Dipartimento di Ingegneria e Scienza dell'Informazione. Vicecoordinador ICT International Doctoral School. Cientifico Director del Doctoral Training Center on ICT for Quality of Life (parte del EIT ICT Labs Doctoral School )"
+		"descripcion" => "Associate Professor at the Università degli Studi di Trento. Member of the Dipartimento di Ingegneria e Scienza dell'Informazione. Teaching at the Dipartimento di Sociologia e Ricerca Sociale and at the Dipartimento di Ingegneria e Scienza dell'Informazione. Vice-Coordinator of the ICT International Doctoral School. Scientific Director of the Doctoral Training Center on ICT for Quality of Life (part of the EIT ICT Labs Doctoral School)"
 	);
 
 
 $miembro_4 = array(
 		"nombre" => "Dr. Cristhian Parra (U. California, Berkeley, Estados Unidos)<br>Investigador Asociado
 ",
-		"descripcion" => ""
+		"descripcion" => "Informatics Engineer with a Ph.D. in Information and Communication Technologies from Università degli Studi di Trento. He works as a Software Engineer at UC Berkeley and Inria (Institut National de Recherche en Informatique et en Automatique), France. His work focus in the multidisciplinary realm of Social-Community Informatics and Human Computer Interactions, using Participatory Design and Participatory Action Research as principal approaches to the work in these fields"
 	);
 
 $miembro_5 = array(
 		"nombre" => "Msc. Camilo Caballero (U. de Salamanca, España)<br>Investigador Asociado",
-		"descripcion" => ""
+		"descripcion" => "Candidate for a Ph.D. degree in Logic and Philosophy of Science. His operation areas include Social Studies of Sciece and Technology; Information and Communication Technologies with Local Developement; State Management. He works a coordinator assitant in Enfoque Territorial Project and Servicio de Apoyo Indígena. He has been coordination and communication assitant at CADEP, and work as a consultant for Semillas Para la Democracia program."
 	);
 
 $miembro_6 = array(
 		"nombre" => "Lic. Marcelo Alcaraz (UCA)<br>Investigador Junior",
-		"descripcion" => ""
+		"descripcion" => "He has finished _________ Universidad Católica Nuestra Señora de la Asunción. He joined Particpa's team starting his final project for getting the Informatics Engineering degree."
 	);
 
 $miembro_7 = array(
 		"nombre" => "Lic. Rebeca Arteta (UCA)<br>Investigador Junior",
-		"descripcion" => ""
+		"descripcion" => "Candidate for a Informatics Engineering degree from Universidad Católica Nuestra Señora de la Asunción. She joined the projet as a Junior researcher starting her degree final project. She works as a back-end deveolper at a paraguayan software developer company."
 	);
 
 // // Plantilla
