@@ -1961,8 +1961,16 @@
 			display: block;
 			float: left;
 			text-align: center;
-			width: 50%;
+			width: 100%;
 		}
+
+			ul.featured-icons li img {
+				display: inline-block;
+				font-size: 6.25em;
+				height: 1.5em;
+				line-height: 1.25em;
+				width: 2em;
+			}
 
 			ul.featured-icons li .icon {
 				display: inline-block;
